@@ -1,4 +1,4 @@
-# MY TO DO LIST APP
+# MY TO DO APP
 
 A simple To-do-list app to get familiar with React.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
